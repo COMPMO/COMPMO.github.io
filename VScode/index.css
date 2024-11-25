@@ -1,0 +1,48 @@
+
+.box {
+border: 5px solid;
+text-align: right;
+float: right; 
+top: 20px;
+position: absolute;
+left: 810px;
+font-size: xx-large;
+border-style: solid;
+text-transform:capitalize;
+}
+
+.box2 {
+    border: 5px solid;
+    text-align: right;
+    float: right; 
+    top: 20px;
+    position: absolute;
+    left: 990px;
+    font-size: xx-large;
+    border-style: solid;
+    text-transform:capitalize;
+    }
+
+    .box3 {
+        border: 5px solid;
+        text-align: right;
+        float: right; 
+        top: 20px;
+        position: absolute;
+        left: 1240px;
+        font-size: xx-large;
+        border-style: solid;
+        text-transform:capitalize;
+        }
+        
+    .box4 {
+        border: 5px solid;
+        text-align: right;
+        float: right; 
+        top: 20px;
+        position: absolute;
+        left: 1490px;
+        font-size: xx-large;
+        border-style: solid;
+        text-transform:capitalize;
+        }

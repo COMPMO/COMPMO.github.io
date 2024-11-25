@@ -1,0 +1,13 @@
+.box2 {
+    border: 5px solid;
+    text-align: right;
+    float: right; 
+    top: 20px;
+    position: absolute;
+    left: 890px;
+    font-size: xx-large;
+    border-style: solid;
+    text-transform:capitalize;
+    text-decoration-line: none;
+    color: yellow;
+    }
